@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Aug 2021 21:11:31 -0300</pubDate>
-    <lastBuildDate>Mon, 09 Aug 2021 21:11:31 -0300</lastBuildDate>
+    <pubDate>Mon, 09 Aug 2021 21:26:09 -0300</pubDate>
+    <lastBuildDate>Mon, 09 Aug 2021 21:26:09 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -30,6 +30,160 @@
         <pubDate>Mon, 09 Aug 2021 20:46:59 -0300</pubDate>
         <link>http://yourdomain.com/jekyll/update/2021/08/09/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2021/08/09/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Notas de Mongodb 1</title>
+        <description>&lt;h1 id=&quot;pipenv&quot;&gt;pipenv&lt;/h1&gt;
+&lt;p&gt;Entorno virtual de Python
+https://www.faztweb.com/curso/python-pipenv/introduccion
+https://platzi.com/tutoriales/1378-python/2292-pipenv-virtualenv-y-pip-en-un-solo-comando/&lt;/p&gt;
+
+&lt;h2 id=&quot;para-instalar-el-manejador-del-entorno-virtual&quot;&gt;Para instalar el manejador del entorno virtual.&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pip3 install pipenv
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;crear-e-iniciar-o-solo-para-iniciar-el-entorno-virutal&quot;&gt;Crear e Iniciar, o solo para iniciar el entorno virutal&lt;/h2&gt;
+&lt;p&gt;Ir a la carpeta del proyecto
+    pip3 shell
+cambia el prompt para indicar que está inicializado
+-
+pipenv shell&lt;/p&gt;
+&lt;h2 id=&quot;ahora-los-módulos-se-deben-instalar-dentro-del-entorno-virutal&quot;&gt;Ahora los módulos se deben instalar dentro del entorno virutal&lt;/h2&gt;
+&lt;p&gt;pip install flask&lt;/p&gt;
+
+&lt;h2 id=&quot;salir-del-entorno-virtual&quot;&gt;Salir del entorno virtual&lt;/h2&gt;
+&lt;p&gt;exit&lt;/p&gt;
+
+&lt;h2 id=&quot;eliminar-un-environment-ejecuta&quot;&gt;Eliminar un environment ejecuta&lt;/h2&gt;
+&lt;p&gt;pipenv –rm&lt;/p&gt;
+
+&lt;h1 id=&quot;datos-varios&quot;&gt;Datos varios&lt;/h1&gt;
+&lt;h2 id=&quot;listar-los-paquetes-instalados&quot;&gt;Listar los paquetes instalados&lt;/h2&gt;
+&lt;p&gt;pip list&lt;/p&gt;
+&lt;h2 id=&quot;eliminar-todos-los-paquetes-instalados&quot;&gt;Eliminar todos los paquetes instalados&lt;/h2&gt;
+&lt;p&gt;pipenv uninstall –all
+pip freeze | xargs pip uninstall -y&lt;/p&gt;
+&lt;h2 id=&quot;creaar-archivo-requirementstxt-con-lo-instalado-actualmente&quot;&gt;Creaar archivo requirements.txt con lo instalado actualmente&lt;/h2&gt;
+&lt;p&gt;pip freeze &amp;gt; requirements.txt&lt;/p&gt;
+&lt;h2 id=&quot;instalar-paquetes-desde-requirementstxt&quot;&gt;Instalar paquetes desde requirements.txt&lt;/h2&gt;
+&lt;p&gt;pip install -r requirements.txt&lt;/p&gt;
+&lt;h2 id=&quot;quitar-los-paquetes-que-están-en-requirementstxt&quot;&gt;Quitar los paquetes que están en requirements.txt&lt;/h2&gt;
+&lt;p&gt;pip uninstall -r requirements.txt -y&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;tips-sueltos-sin-clasificar&quot;&gt;Tips Sueltos, sin clasificar.&lt;/h1&gt;
+
+&lt;h2 id=&quot;repositorio-de-manuales-y-recursos-del-entrenamiento&quot;&gt;&lt;a href=&quot;https://entrenamiento-python-basico.readthedocs.io/es/latest/index.html#&quot;&gt;Repositorio de manuales y recursos del entrenamiento&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;agregar-help-a-una-funcion&quot;&gt;&lt;a href=&quot;https://platzi.com/clases/1764-python-cs/25242-especificaciones-del-codigo/&quot;&gt;Agregar help a una funcion&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;partes importantes que son las siguientes:&lt;br /&gt;
+Primero se da una descripción clara y concisa de la función y su funcionamiento.&lt;br /&gt;
+En medio se agrega la descripción de los diferentes parámetros, su tipo, su nombre y que es lo que se espera de esos parámetros..&lt;br /&gt;
+Por ultimo se agrega que es lo que devuelve nuestra función.&lt;/p&gt;
+
+&lt;h2 id=&quot;recursividad&quot;&gt;&lt;a href=&quot;https://platzi.com/clases/1764-python-cs/25243-recursividad/&quot;&gt;Recursividad&lt;/a&gt;&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#Importamos el modulo sys que nos permitira modificar la recursion
+import sys
+
+def factorial(n):
+    &quot;&quot;&quot;Calcula el factorial de n
+
+        n int &amp;gt; 0
+        returns n!
+    &quot;&quot;&quot;
+    print(n)
+    if n == 1:
+        return 1
+    
+    return n * factorial(n - 1)
+
+n = int(input(&#39;Escribe un entero: &#39;))
+
+# Imprimimos el limite de recursion que trae python por defecto con la funcion sys.getrecursionlimit() que trae el modulo sys. 
+print(sys.getrecursionlimit())
+
+# Modificamos el limite de recursion a 2000 con la funcion sys.setrecursionlimit() que trae el modulo sys
+sys.setrecursionlimit(2000)
+
+print(factorial(n))
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;tuplas&quot;&gt;Tuplas&lt;/h2&gt;
+&lt;p&gt;Es una lista que no se puede modificar.
+Utiliza menos memoria y es más rápida para recorrer.
+mi_tupla = (1,2)&lt;/p&gt;
+
+&lt;h2 id=&quot;rangos&quot;&gt;Rangos&lt;/h2&gt;
+&lt;p&gt;Son secuencias de enteros.
+Son inmutables.
+mi_gango = (comienzo, fin, pasos)
+El final es no inclusivo&lt;/p&gt;
+
+&lt;h2 id=&quot;listas&quot;&gt;Listas&lt;/h2&gt;
+&lt;p&gt;mi_lista = [1,2,3]
+Se pueden usar slices
+-agregar un item
+mi_lista.append(valor)
+se agrega al final
+-
+quitar el último item
+mi_lista.pop(valor)
+-
+Tener cuidado al crear una lista de listas.
+Porque en realidad es el mismo objeto.
+en vez de hacer a=b
+para c, usar
+c = list(a)
+o con slices
+d = a[::]
+-&lt;/p&gt;
+&lt;h3 id=&quot;list-comprehension&quot;&gt;List comprehension.&lt;/h3&gt;
+&lt;p&gt;Es una forma concisa de aplicar operaciones a todos los items de una lista.
+my_list = list(range(100))
+-
+defino una nueva lista, a partir de la primera
+pares = (i for i in my_list if i % 2 == 0)
+i
+for i in my_list
+if i % 2 == 0&lt;/p&gt;
+
+&lt;h2 id=&quot;diccionarios&quot;&gt;Diccionarios&lt;/h2&gt;
+&lt;p&gt;Son como listas, que en vez de acceder a ellos por un indice numérico, se accede a los valores a travez de llaves.
+No tienen un orden interno establecido.
+Son mutables e iterables.
+mi_dicc = {
+    ‘Juan’ = 35,
+    ‘Pedro’ = 40
+}&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Para traer un valor.
+mi_dicc [‘Juan’]
+pero la clave debe existir.
+mi_dicc.get(‘Juan’,30)
+Si existe nos trae el valor, sino trae 30.&lt;/li&gt;
+  &lt;li&gt;Para asignar un valor a una clave existente.
+mi_dicc[‘Juan’] = 22
+Si no existe la llave, crea un nuevo item.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Metodos para listas
+https://jarroba.com/list-python-ejemplos/&lt;/p&gt;
+
+&lt;p&gt;Métodos para diccionarios
+https://jarroba.com/diccionario-python-ejemplos/&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 08 Aug 2021 20:46:59 -0300</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2021/08/08/NotasPython.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2021/08/08/NotasPython.html</guid>
         
         
         <category>jekyll</category>
