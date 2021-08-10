@@ -16,6 +16,7 @@ https://platzi.com/tutoriales/1378-python/2292-pipenv-virtualenv-y-pip-en-un-sol
 Ir a la carpeta del proyecto
 
     pip3 shell
+
 cambia el prompt para indicar que está inicializado
 -
 pipenv shell
