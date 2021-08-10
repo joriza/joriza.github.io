@@ -18,3 +18,4 @@ https://benjagarrido.com/instalando-jekyll-en-ubuntu-18-04/
 https://www.ionos.es/digitalguide/hosting/blogs/jekyll-manual-de-instalacion-y-configuracion/  
 https://github.com/barryclark/jekyll-now  
 https://riptutorial.com/Download/jekyll-es.pdf  
+https://blog.desdelinux.net/hacer-blog-jekyll/
