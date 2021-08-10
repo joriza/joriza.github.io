@@ -14,6 +14,7 @@ https://platzi.com/tutoriales/1378-python/2292-pipenv-virtualenv-y-pip-en-un-sol
 
 ## Crear e Iniciar, o solo para iniciar el entorno virutal
 Ir a la carpeta del proyecto
+
     pip3 shell
 cambia el prompt para indicar que está inicializado
 -
