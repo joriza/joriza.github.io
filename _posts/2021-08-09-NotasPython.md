@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Notas de Mongodb 1"
+title:  "Notas Python"
 date:   2021-08-08 20:46:59 -0300
-categories: jekyll update
+categories: Notas
 ---
 # pipenv
 Entorno virtual de Python
