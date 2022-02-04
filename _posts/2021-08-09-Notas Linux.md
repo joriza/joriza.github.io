@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notas Linux"
+title:  "Notas Linux (Rev.)"
 date:   2021-08-08 20:46:59 -0300
 categories: Sin Categorizar (jekyll update)
 ---
