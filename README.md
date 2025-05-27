@@ -6,7 +6,7 @@
 
 **[IMC: Instalación, mantenimiento ...](https://drive.google.com/drive/folders/11oJszc78RBcjjiTi4ULlVg26f3zzDgKW?usp=sharing)**
 
-**[LSO / LPR: Laboratorio de Sistemas ...](https://drive.google.com/drive/folders/11SQzWp3FXgxrZknBdhkNbA4q1QADDGCR?usp=sharing)**
+**[LSO / LPR: Laboratorio de Sistemas ...](https://drive.google.com/drive/folders/1HKPQFm28KQb0-EGzgXr1bihoK32Kws1e?usp=sharing)**
 
-**[IRI: ..Redes Informaticas](https://drive.google.com/drive/folders/1TSNmzTRwHOXE41s4hQKQd-HCjZN8m7m-?usp=drive_link)**
+**[IRI: ..Redes Informaticas](https://drive.google.com/drive/folders/1J6VvK1eXn9HPJFU4vvfyA3Q3dxSyYMzv?usp=sharing)**
 
