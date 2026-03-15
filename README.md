@@ -2,6 +2,12 @@
 
 --
 
+## Ciclo lectivo 2026
+
+## **[EAU: Electrotecnia del Automobil](https://drive.google.com/drive/folders/1uMlFBb79XjzOeDwGzHcdi7cdoxvwjwre?usp=drive_link)**
+
+--
+
 ## Ciclo lectivo 2025
 
 **[IRI: Redes Informaticas](https://drive.google.com/drive/folders/1J6VvK1eXn9HPJFU4vvfyA3Q3dxSyYMzv?usp=sharing)**
