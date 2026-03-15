@@ -6,7 +6,8 @@
 
 ## **[EAU: Electrotecnia del Automobil](https://drive.google.com/drive/folders/1uMlFBb79XjzOeDwGzHcdi7cdoxvwjwre?usp=drive_link)**
 
---
+---
+---
 
 ## Ciclo lectivo 2025
 
@@ -14,11 +15,13 @@
 
 **[LSO / LPR: Lab. de Siste. Oper.](https://drive.google.com/drive/folders/1HKPQFm28KQb0-EGzgXr1bihoK32Kws1e?usp=sharing)**
 
---
+---
+---
 
 ## Discontinuados
 
---
+---
+---
 
 **[Cens 463 - Tecnicas y Practicas Digitales](https://drive.google.com/drive/folders/18xpXxgYhngITwIZIo-BaE69b5Plxiq1D)**
 
