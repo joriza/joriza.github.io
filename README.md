@@ -8,6 +8,8 @@
 
 ## **[IRI: Redes Informaticas](https://drive.google.com/drive/folders/1eMFgKqVviDOC-335hXUF8hA8UbgydwEb?usp=sharing)**
 
+## **[LSO: Lab. Sist. Operativos](https://drive.google.com/drive/folders/1ICfy6C7SyI1bXTx_RzAzq9UYG4fEIp_K?usp=sharing)**
+
 ---
 ---
 
