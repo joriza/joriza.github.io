@@ -6,6 +6,8 @@
 
 ## **[EAU: Electrotecnia del Automobil](https://drive.google.com/drive/folders/1uMlFBb79XjzOeDwGzHcdi7cdoxvwjwre?usp=drive_link)**
 
+## **[IRI: Redes Informaticas](https://drive.google.com/drive/folders/1eMFgKqVviDOC-335hXUF8hA8UbgydwEb?usp=sharing)**
+
 ---
 ---
 
