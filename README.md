@@ -6,6 +6,8 @@
 
 ## **[EAU: Electrotecnia del Automobil](https://drive.google.com/drive/folders/1uMlFBb79XjzOeDwGzHcdi7cdoxvwjwre?usp=drive_link)**
 
+## **[EIN: Electrónica Industrial](https://drive.google.com/drive/folders/1XdFrYrQ1qChXXM8DMtoWlgNFMaoFBBLa?usp=drive_link)**
+
 ## **[IRI: Redes Informaticas](https://drive.google.com/drive/folders/1eMFgKqVviDOC-335hXUF8hA8UbgydwEb?usp=sharing)**
 
 ## **[LSO: Lab. Sist. Operativos](https://drive.google.com/drive/folders/1ICfy6C7SyI1bXTx_RzAzq9UYG4fEIp_K?usp=sharing)**
