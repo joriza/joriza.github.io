@@ -4,6 +4,9 @@
 
 ## Ciclo lectivo 2026
 
+
+## **[CYA: Controles y Automatismos](https://drive.google.com/drive/folders/1HnlOHL8NcabmZbTOKmAkscixHPCYpHan?usp=sharing)**
+
 ## **[EAU: Electrotecnia del Automobil](https://drive.google.com/drive/folders/1uMlFBb79XjzOeDwGzHcdi7cdoxvwjwre?usp=drive_link)**
 
 ## **[EIN: Electrónica Industrial](https://drive.google.com/drive/folders/1XdFrYrQ1qChXXM8DMtoWlgNFMaoFBBLa?usp=drive_link)**
