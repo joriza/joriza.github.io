@@ -13,6 +13,8 @@
 
 ## **[IRI: Redes Informaticas](https://drive.google.com/drive/folders/1eMFgKqVviDOC-335hXUF8hA8UbgydwEb?usp=sharing)**
 
+## **[LPR: Lab. de Programación](https://drive.google.com/drive/folders/15wo7sYdzBbfrHYlt7gVnxsQPBBZ5kbDh?usp=sharing)**
+
 ## **[LSO: Lab. Sist. Operativos](https://drive.google.com/drive/folders/1ICfy6C7SyI1bXTx_RzAzq9UYG4fEIp_K?usp=sharing)**
 
 ---
