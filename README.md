@@ -4,14 +4,15 @@
 
 ## Ciclo lectivo 2026
 
+## **[C3Z: Tecnología y Prácticas Digitales](https://drive.google.com/drive/folders/1u6o7hvO6XxXfW8B13zeCkssiQRcqgdkn?usp=sharing)**
 
 ## **[CYA: Controles y Automatismos](https://drive.google.com/drive/folders/1HnlOHL8NcabmZbTOKmAkscixHPCYpHan?usp=sharing)**
 
-## **[EAU: Electrotecnia del Automobil](https://drive.google.com/drive/folders/1uMlFBb79XjzOeDwGzHcdi7cdoxvwjwre?usp=drive_link)**
+## **[EAU: Electrotecnia del Automóvil](https://drive.google.com/drive/folders/1uMlFBb79XjzOeDwGzHcdi7cdoxvwjwre?usp=drive_link)**
 
 ## **[EIN: Electrónica Industrial](https://drive.google.com/drive/folders/1XdFrYrQ1qChXXM8DMtoWlgNFMaoFBBLa?usp=drive_link)**
 
-## **[IRI: Redes Informaticas](https://drive.google.com/drive/folders/1eMFgKqVviDOC-335hXUF8hA8UbgydwEb?usp=sharing)**
+## **[IRI: Redes Informáticas](https://drive.google.com/drive/folders/1eMFgKqVviDOC-335hXUF8hA8UbgydwEb?usp=sharing)**
 
 ## **[LPR: Lab. de Programación](https://drive.google.com/drive/folders/15wo7sYdzBbfrHYlt7gVnxsQPBBZ5kbDh?usp=sharing)**
 
@@ -24,7 +25,7 @@
 
 **[IRI: Redes Informaticas](https://drive.google.com/drive/folders/1J6VvK1eXn9HPJFU4vvfyA3Q3dxSyYMzv?usp=sharing)**
 
-**[LSO / LPR: Lab. de Siste. Oper.](https://drive.google.com/drive/folders/1HKPQFm28KQb0-EGzgXr1bihoK32Kws1e?usp=sharing)**
+**[LSO: Lab. de Sist. Operativos](https://drive.google.com/drive/folders/1HKPQFm28KQb0-EGzgXr1bihoK32Kws1e?usp=sharing)**
 
 ---
 ---
