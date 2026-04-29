@@ -18,6 +18,8 @@
 
 ## **[LSO: Lab. Sist. Operativos](https://drive.google.com/drive/folders/1ICfy6C7SyI1bXTx_RzAzq9UYG4fEIp_K?usp=sharing)**
 
+## **[PWD: Proyecto, diseño ...](https://drive.google.com/drive/folders/1dqm4YW-xRc9vVPl9yBrzJg6fiFVHw2rL?usp=sharing)**
+
 ---
 ---
 
